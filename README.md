@@ -4,7 +4,7 @@ Steps to make updates:
 
 1. ssh to the remote server: 
 
-    ssh -i "skinalytics-server-kpn.pem" ec2-user@ec2-18-144-11-78.us-west-1.compute.amazonaws.com
+    ssh -i "*********-server-kpn.pem" ec2-user@************.us-west-1.compute.amazonaws.com
     
 2. upload the most recent code by scp or git pull
 
